@@ -205,7 +205,8 @@ teams:
     team02_project: "n/a"
     legacy_project: "rec"
     legacy_kanban: "60"
-  - slack: https://ucsb-cs156-f25.slack.com/archives/C09T3J0F6HZ
+    slack: https://ucsb-cs156-f25.slack.com/archives/C09T3J0F6HZ
+  - team: f25-18
     dokku: "18"
     team01_project: "n/a"
     team02_project: "n/a"
