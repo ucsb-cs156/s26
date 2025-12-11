@@ -111,20 +111,6 @@ even though the features were implemented.
 
 
 
-
-## Legacy repository: proj-rec
-
-| issue | f25-17 | f25-18 |
-|---| ---|---|
-| [67](https://github.com/ucsb-cs156/proj-rec/issues/67) [FRONTEND] Add the ability to create a recommendation request from the Navbar | - | - |
-| [68](https://github.com/ucsb-cs156/proj-rec/issues/68) Allow Multiple H2 connections | [PR9](https://github.com/ucsb-cs156-f25/proj-rec-f25-17/pull/9)  [PR10](https://github.com/ucsb-cs156-f25/proj-rec-f25-17/pull/10) | - |
-| [69](https://github.com/ucsb-cs156/proj-rec/issues/69) [FRONTEND] Enable Showing Request Types for Admins | - | - |
-| [70](https://github.com/ucsb-cs156/proj-rec/issues/70) FEATURE: Replace "Example" Brand with "Rec". | [PR7](https://github.com/ucsb-cs156-f25/proj-rec-f25-17/pull/7) | - |
-| [71](https://github.com/ucsb-cs156/proj-rec/issues/71) Fix hardcoded request types loading at startup. | - | - |
-| [72](https://github.com/ucsb-cs156/proj-rec/issues/72) FIX: Rename all instances of "RequestType" on the Request Types page to "Request Type" | - | - |
-| [73](https://github.com/ucsb-cs156/proj-rec/issues/73) FEATURE: Update the footnotes to reflect the correct application. | - | - |
-| [74](https://github.com/ucsb-cs156/proj-rec/issues/74) FEATURE: Change the navigation bar to display 'RecManager' instead of 'Example' | - | - |
-
 ## Staff Notes
 
 The tables above are produced by running `python legacy_code_repo_issues.py` from the repo `membership-scripts`
