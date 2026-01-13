@@ -87,9 +87,7 @@ If this presents a difficulty, please contact the instructor ASAP so that some a
 
 ## A few words about Chromatic
 
-This quarter, s26 is the **first time** that we are trying to incoporate Chromatic visual difference testing into the course.
-
-Accordingly, we may run into **unexpected issues**.  Sometimes the only way to know how a technology will work when you turn 96 students loose on it in a course is to **try it, and see what happens**.
+We are trying to incoporate Chromatic visual difference testing into the course, but it is a work in progress.
 
 The dropdown box below will contain information about issues/problems we run into using Chromatic, and it **may be updated periodically** as we run into additional issues.  Please check it periodically if you run into Chromatic issues while working on this lab.
 
