@@ -3,20 +3,20 @@ title: team02
 description: "Team Project: React CRUD frontend"
 assigned: 2025-10-28
 due: 2025-11-04 23:59
-github_org: ucsb-cs156-f25
-github_org_url: https://github.com/ucsb-cs156-f25
-sample_team: f25-01
+github_org: ucsb-cs156-s26
+github_org_url: https://github.com/ucsb-cs156-s26
+sample_team: s26-01
 layout: lab
 layout: default
 parent: lab
 prev_assignment: team01
 nav_order: 203
 ready: true
-starter: https://github.com/ucsb-cs156-f25/STARTER-team02
+starter: https://github.com/ucsb-cs156-s26/STARTER-team02
 deployment: https://team02.dokku-00.cs.ucsb.edu/
-storybook: https://ucsb-cs156-f25.github.io/STARTER-team02/chromatic
+storybook: https://ucsb-cs156-s26.github.io/STARTER-team02/chromatic
 canvas: https://ucsb.instructure.com/courses/27687/assignments/381964
-help_team02: "[<tt>#help-team02</tt>](https://ucsb-cs156-f25.slack.com/archives/C09MDAMH27K)"
+help_team02: "[<tt>#help-team02</tt>](https://ucsb-cs156-s26.slack.com/archives/C09MDAMH27K)"
 nvm_use: "<tt>nvm use 22.18.0</tt>"
 ---
 
@@ -87,7 +87,7 @@ If this presents a difficulty, please contact the instructor ASAP so that some a
 
 ## A few words about Chromatic
 
-This quarter, f25 is the **first time** that we are trying to incoporate Chromatic visual difference testing into the course.
+This quarter, s26 is the **first time** that we are trying to incoporate Chromatic visual difference testing into the course.
 
 Accordingly, we may run into **unexpected issues**.  Sometimes the only way to know how a technology will work when you turn 96 students loose on it in a course is to **try it, and see what happens**.
 
@@ -553,7 +553,7 @@ Before releasing this lab to students, be sure the following tasks are done:
 
 
 * Finalize starter code repo <{{page.starter}}>
-* Create {{page.title}} repos using the github actions in <https://github.com/ucsb-cs156-f25/membership-scripts>
+* Create {{page.title}} repos using the github actions in <https://github.com/ucsb-cs156-s26/membership-scripts>
   * public
   * team access admin
   * signed commits
@@ -564,7 +564,7 @@ Before releasing this lab to students, be sure the following tasks are done:
   configuration of columns, etc. so this is still the easiest way.  Make sure the projects
   are named with the same exact names as the repos; this makes a later step easier.
 * Then, update `_config.yml` for the website with the project numbers for team01.  This causes the table of links in this lab to render properly.
-* Then, in <https://github.com/ucsb-cs156-f25/membership-scripts>, there is a Github Action that will 
+* Then, in <https://github.com/ucsb-cs156-s26/membership-scripts>, there is a Github Action that will 
   * Link the project to the repo
   * Set the permission for the project properly
 * Double check that the kanban boards and repos are set up and have the correct permissions.
@@ -617,7 +617,7 @@ The next step was probably already done earlier, but just in case:
 for team in {01..16}
 do
   echo "Setting up code for $team"
-  git clone git@github.com:ucsb-cs156-f25/team02-f25-${team}.git
+  git clone git@github.com:ucsb-cs156-s26/team02-s26-${team}.git
 done
 ```
 **Add starter remotes**: use a loop like this to add the starter remotes:
@@ -625,8 +625,8 @@ done
 for team in {01..16}
 do
   echo "Adding starter remote for $team"
-  cd team02-f25-${team}
-  git remote add starter https://github.com/ucsb-cs156-f25/STARTER-team02
+  cd team02-s26-${team}
+  git remote add starter https://github.com/ucsb-cs156-s26/STARTER-team02
   cd ..
 done
 ```
@@ -637,7 +637,7 @@ done
 for team in {01..16}
 do
   echo "pull from starter for $team"
-  cd team02-f25-${team}
+  cd team02-s26-${team}
   git pull starter main
   git push origin main
   cd ..
@@ -650,7 +650,7 @@ done
 for team in {01..16}
 do
   echo "pull from starter for $team"
-  cd team02-f25-${team}
+  cd team02-s26-${team}
   git checkout main
   git pull origin main
   git pull starter main

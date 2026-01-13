@@ -17,8 +17,8 @@ Today, we start team01.
 
 Please bring up the instructions here:
 
-* <https://ucsb-cs156.github.io/f25/lab/team01.html>
+* <https://ucsb-cs156.github.io/s26/lab/team01.html>
 
 Also, complete this participation activity:
 
-* <https://ucsb-cs156.github.io/f25/hwk/p09/>
+* <https://ucsb-cs156.github.io/s26/hwk/p09/>

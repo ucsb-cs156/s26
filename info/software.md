@@ -19,7 +19,7 @@ Instructions on installing these follow below.
 * Java {{page.java_version}} (`bellsoft-liberica-jdk` distribution recommended).
 * Maven {{page.maven_version}}
 
-When you are finished, check <https://ucsb-cs156.github.io/f25/info/install_checklist.html> to double check that you completed every step successfully.
+When you are finished, check <https://ucsb-cs156.github.io/s26/info/install_checklist.html> to double check that you completed every step successfully.
 
 # Software to Install in week 3 (for frontend development)
 

@@ -9,7 +9,7 @@ parent: lectures
 
 # {{page.title}} - {{page.description}}
 
-Today, we started [jpa02](https://ucsb-cs156.github.io/f25/lab/jpa02.html).
+Today, we started [jpa02](https://ucsb-cs156.github.io/s26/lab/jpa02.html).
 
 This message was posted to the slack before class:
 

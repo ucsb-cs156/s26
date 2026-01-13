@@ -11,7 +11,7 @@ parent: lectures
 
 Today, our entire class period is devoted to this activity:
 
-* <https://ucsb-cs156.github.io/f25/hwk/p06>
+* <https://ucsb-cs156.github.io/s26/hwk/p06>
 
 We will not be taking programming questions until after your group has submitted this activity on Canvas, and certainly not before 6pm.
 

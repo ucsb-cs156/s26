@@ -1,5 +1,5 @@
 ---
-title: CS156 f25
+title: CS156 s26
 permalink: "/"
 layout: default
 nav_order: 0
@@ -7,13 +7,13 @@ nav_order: 0
 
 # {{site.title}}, {{site.quarter}}
 
-[Legacy Code Project Info](https://ucsb-cs156.github.io/f25/lab/project.html)
+[Legacy Code Project Info](https://ucsb-cs156.github.io/s26/lab/project.html)
 
 On Canvas: <{{site.aux_links["Canvas"]}}>
 
-Course Github Org: <https://github.com/ucsb-cs156-f25>
+Course Github Org: <https://github.com/ucsb-cs156-s26>
 
-<!-- Legacy Code Project: <https://ucsb-cs156.github.io/f25/lab/project.html> -->
+<!-- Legacy Code Project: <https://ucsb-cs156.github.io/s26/lab/project.html> -->
 
 ## Thanks
 

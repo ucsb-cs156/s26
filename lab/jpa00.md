@@ -8,11 +8,11 @@ nav_order: 100
 ready: false
 layout: default
 parent: lab
-slack: https://ucsb-cs156-f25.slack.com
-course_org: https://github.com/ucsb-cs156-f25
-course_org_name: ucsb-cs156-f25
-starter_repo: https://github.com/ucsb-cs156-f25/STARTER-jpa00
-course_software: https://ucsb-cs156.github.io/f25/info/software.html
+slack: https://ucsb-cs156-s26.slack.com
+course_org: https://github.com/ucsb-cs156-s26
+course_org_name: ucsb-cs156-s26
+starter_repo: https://github.com/ucsb-cs156-s26/STARTER-jpa00
+course_software: https://ucsb-cs156.github.io/s26/info/software.html
 ---
 
 # {{page.title}} - {{page.description}}
@@ -97,7 +97,7 @@ There a few details, but they are all straightforward.
    course. For this assignment, it will not matter what editor you use,
    but in future assignments, the use of an IDE will become more important. So we encourage you to try VSCode if you haven't used it before.
 
-3. Make sure you have completed the checklist for installation steps here: <https://ucsb-cs156.github.io/f25/info/install_checklist.html>.
+3. Make sure you have completed the checklist for installation steps here: <https://ucsb-cs156.github.io/s26/info/install_checklist.html>.
   
    If you haven't done the `nvm` part yet, it's ok; you won't need
    that for this lab.  But you will need Java 21, Maven, and VSCode.
