@@ -19,14 +19,14 @@ baseurl: "/s26"
 slack_help_lecture_discussion: TBD
 sample_team: s26-04
 
-ta_list_full: Sanjay Chandrasekaran, Kate Larrick
-la_list_full: Daniel Jensen, Derek Kirschbaum, Divyani Punj
+ta_list_full: Daniel Jensen, Kiril Aristarkhov
+la_list_full: Andrew Chen, Austin Chan, Derek Kirschbaum, Divyani Punj 
 discussion_section_day: Wednesday
-discussion_section_times: 4pm, 6pm
+discussion_section_times: 5pm, 6pm
 
-help_windows_link: https://ucsb-cs156-s26.slack.com/archives/C09A5LE7T89
-help_macos_link: https://ucsb-cs156-s26.slack.com/archives/C09A5LGBP25
-help_lecture_discussion: https://ucsb-cs156-s26.slack.com/archives/C099W8E5W5S
+help_windows_link: https://ucsb-cs156-s26.slack.com/archives/tbd
+help_macos_link: https://ucsb-cs156-s26.slack.com/archives/tbd
+help_lecture_discussion: https://ucsb-cs156-s26.slack.com/archives/tbd
 
 mermaid:
   # Version of mermaid library
@@ -40,7 +40,7 @@ aux_links:
   "github":
     - "//github.com/ucsb-cs156-s26"
   "Canvas":
-    - "https://ucsb.instructure.com/courses/27687"
+    - "https://ucsb.instructure.com/courses/32781"
 
 # TODO: replace canvas link above with specific one
 # such as https://www.canvas.ucsb.edu/courses/12345
@@ -199,19 +199,3 @@ teams:
     legacy_project: "tbd"
     legacy_kanban: "tbd"
     slack: https://ucsb-cs156-s26.slack.com/archives/tbd
-  - team: s26-17
-    dokku: "17"
-    team01_project: "tbd"
-    team02_project: "tbd"
-    legacy_project: "tbd"
-    legacy_kanban: "tbd"
-    slack: https://ucsb-cs156-s26.slack.com/archives/tbd
-  - team: s26-18
-    dokku: "18"
-     team01_project: "tbd"
-    team02_project: "tbd"
-    legacy_project: "tbd"
-    legacy_kanban: "tbd"
-    slack: https://ucsb-cs156-s26.slack.com/archives/tbd
-
-
