@@ -187,7 +187,7 @@ teams:
     slack: https://ucsb-cs156-s26.slack.com/archives/tbd
   - team: s26-15
     dokku: "15"
-     team01_project: "tbd"
+    team01_project: "tbd"
     team02_project: "tbd"
     legacy_project: "tbd"
     legacy_kanban: "tbd"
