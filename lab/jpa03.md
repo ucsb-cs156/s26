@@ -19,6 +19,8 @@ software_install_url: https://ucsb-cs156.github.io/s26/info/software.html
 staff_emails: "djensen@ucsb.edu,sanjaychandrasekaran@ucsb.edu,katelarrick@ucsb.edu,divyanipunj@ucsb.edu,samuelzhu@ucsb.edu,dgkirschbaum@ucsb.edu,phtcon@ucsb.edu"
 ---
 
+# {{page.title}} - {{page.description}}
+
 <style>
   tt {white-space: pre; font-size: 80%;}
   code {white-space: pre}
@@ -29,7 +31,9 @@ staff_emails: "djensen@ucsb.edu,sanjaychandrasekaran@ucsb.edu,katelarrick@ucsb.e
 
 For due date: see jpa03 on Gradescope.
 
-# Instructions for jpa03
+
+
+## Instructions for jpa03
 
 If you run into problems, let us know on the {{page.slack_help_channel}} channel on the slack.
 
