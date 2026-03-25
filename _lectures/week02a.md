@@ -1,21 +1,29 @@
 ---
-title: "Week 02a - 10/07 Tue"
-lecture_date: 2025-10-07
-description: "Start jpa02"
+title: "Week 02a - 04/07 Tue"
+lecture_date: 2026-04-07
+description: "Set up team NOTES repo, divide up LTD paper sections (P05)"
 ready: true
 layout: default
 parent: lectures
 ---
 
-# {{page.title}} - {{page.description}}
 
-Today, we started [jpa02](https://ucsb-cs156.github.io/s26/lab/jpa02.html).
+## Today's work
 
-This message was posted to the slack before class:
+Today, we'll first do the following group activity:
 
-> jpa02 is now available for you to start working on.
-> 
-> If you are able to finish it before class, you still do need to come to class to see if anyone else on your team needs help, but once everyone is done with it, your team is done for today.
-> 
-> Be advised though, that this one is a bit more challenging that jpa00 and jpa01, so it might take you some time to get through.   All the more reason to get started early, so that when class starts today, you'll be ready with your questions. 
-> 
+* [p05](https://ucsb-cs156.github.io/s26/hwk/p05/)
+
+Then continue with whatever parts of this you still haven't finished:
+
+* Install Checklist: <https://ucsb-cs156.github.io/s26/lectures/week01a/>
+* [jpa00](https://ucsb-cs156.github.io/s26/lab/jpa00.html)
+* [jpa01](https://ucsb-cs156.github.io/s26/lab/jpa01.html)
+* [jpa02](https://ucsb-cs156.github.io/s26/lab/jpa02.html)
+
+
+You should work independently, but also help other folks on your team as/when they get stuck on things.
+
+So if you finish early, before you just "leave", check in both in person and on slack with the other members of your team to see if any of them need help.
+
+Please leave only if/when you're done with *all of these*, **and** no one on your team needs help.

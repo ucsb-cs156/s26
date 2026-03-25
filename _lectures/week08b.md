@@ -1,6 +1,6 @@
 ---
-title: "Week 08b - Thu 11/20"
-lecture_date: 2025-11-20
+title: "Week 08b - Wed 05/20"
+lecture_date: 2026-05-20
 description: "Release Notes, Videos"
 ready: true
 layout: default

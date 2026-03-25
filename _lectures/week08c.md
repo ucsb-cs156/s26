@@ -1,7 +1,7 @@
 ---
-title: "Week 09a - Tue 05/26"
-lecture_date: 2026-05-26
-description: "Final PR Deadline"
+title: "Week 08c - Thu 05/21"
+lecture_date: 2026-05-21
+description: "Release Notes, Videos"
 ready: true
 layout: default
 parent: lectures
@@ -9,19 +9,22 @@ parent: lectures
 
 # {{page.title}} - {{page.descripion}}
 
-What is is that is due today?
+## Work on PRs!
 
-* Today is the last day that you can submit *new* PRs to be reviewed by staff.
-* By today, PRs need to be *already in a mergeable state*
-  * Passing all CI/CD checks
-  * Meeting all of the criteria in the PR checklist
-  * Already reviewed/approved by a team member
+You can see the queue of when to expect the next staff PR review on the slack channel [`#pr-queue-reviews`](https://ucsb-cs156-s26.slack.com/archives/C09SV15G8SE)
 
-After today's class ends, any PRs that are not mergeable are subject to being closed without further review by the staff. 
+Reminders:
+* Most PRs need dokku deployments
+* You can (and should) set up multiple dokku dev instances if/when you have multiple unmerged PRs outstanding
+* Don't forget the basics:
+  * Assign the PR
+  * Get a Team CR
+  * No commented out code
+  * Set up a dokku deployment
+  * Make sure the PR has a good description (see: [PR descriptions](https://ucsb-cs156.github.io/topics/GitHub/github_pull_requests.html#pr-descriptions))
+ 
 
-Throughout week 9, we will continue to review PRs that are already in the queue, with the goal of having all of the PR queues empty by the start of week 10.
-
-## What to work on after last PR is merged
+## When your team is done with legacy code PRs: what to work on next
 
 * Release Notes
 * Videos
@@ -33,14 +36,15 @@ You can read more about those below.
 * If your team still has open PRs, get them mergable!
 * If your team is done with PRs: Your "prod" site is linked in the table here in the `Dokku Prod` column.
 * Make sure that all of the features work!
-* Look for bugs. If you find bugs, create issues for them, and make new PRs to fix them.   Bug fix PRs may be submitted at any time, and *might* be reviewed and merged by the staff.
-* *This is not a loophole to add new features*.  These are only bug fixes, and they *do not earn additional points* for the team.  They just help you present a better user experience in your video and release notes.
-* Please create the qa dokku instance if your team hasn't done that yet; those are linked in the `Dokku qa` column below.
+* Look for bugs. If you find bugs, create issues for them, and make PRs to fix them.
+* *This is not a loophole to add new features*.  These are only bug fixes.
+* Please also sync the qa dokku instance to main if your team hasn't done that yet; those are linked in the `Dokku qa` column. 
 * We will be using both the `dokku prod` and the `dokku qa` instances during the final product reviews.
 
 | Team <br ><span style="font-size:80%">Links to Slack</span>| Project <br ><span style="font-size:80%">Links to Legacy Repo</span> | Team Repo | PRs | Github Pages | Kanban | Dokku Prod | Dokku qa |
 |------|----|------|-----|--------------|--------|------------|----------|{% for team in site.teams %}{% capture repoName %}proj-{{team.legacy_project}}-{{team.team}}{% endcapture %}
 |  [{{team.team}}]({{team.slack}}) | [{{team.legacy_project}}](https://github.com/ucsb-cs156/proj-{{team.legacy_project}}) | [ team repo ]({{page.githubOrgUrl}}/{{repoName}}) |   [ PRs ]({{page.githubOrgUrl}}/{{repoName}}/pulls) |  [ github pages ]({{page.githubPagesUrl}}/{{repoName}}) | [ kanban ]({{page.githubProjectsUrl}}/{{team.legacy_kanban}}) | [ dokku prod ](https://{{team.legacy_project}}.dokku-{{team.dokku}}.cs.ucsb.edu) | [ dokku qa ](https://{{team.legacy_project}}-qa.dokku-{{team.dokku}}.cs.ucsb.edu) |{% endfor %}
+
 
 
 # Final Class Meeting

@@ -1,11 +1,30 @@
 ---
-title: "Week 03b - 10/15 Wed"
-lecture_date: 2025-10-15
-description: "Start jpa05"
+title: "Week 03b - 04/15 Wed"
+lecture_date: 2026-04-15
+description: "Help with jpa assignments"
 ready: true
 layout: default
 parent: lectures
+participation_activity: p09
 ---
 
+
 # {{page.title}} - {{page.description}}
+
+Participation Activity:
+* On your team's slack channel, share with your team where you are with jpa02, jpa03, jpa04, e.g.
+  * Finished with up through jpa04
+  * Finished with jpa02; working on jpa03/jpa04
+  * Finished with jpa02/jpa03; working on jpa04
+  * Finished with jpa03/jpa04, but still working on jpa02
+* Then, submit a link to your update on Canvas as {{page.participation_activity}}
+
+# {{page.title}} - {{page.description}}
+
+This class is allocated for students that need to work on the assignments
+jpa00 through jpa04, and need help from the staff.
+
+Students that are "ahead" may also work on jpa05.
+
+
 

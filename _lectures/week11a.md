@@ -1,11 +1,16 @@
 ---
-title: "Week 11a - Wed 12/10"
-lecture_date: 2025-12-10
-description: "Final Exam Slot: Demos"
+title: "Week 11a - Wed 06/10"
+lecture_date: 2026-06-10
+description: "Final Exam Slot (7:30pm-10:30pm): Demos"
 ready: true
 layout: default
 parent: lectures
 ---
+
+```
+CMPSC 156 - ADV APP PROGRAM - Spring 2026 (Enrollment Code - 07831)
+Final Examination: Wednesday, June 10, 2026 7:30 PM - 10:30 PM
+```
 
 # Final Project Evaluation (7:30pm-10pm)
 
@@ -19,8 +24,10 @@ Also note that in cases where the issues were not linked to the PR, or the issue
 even though the features were implemented.
 
 
+**NOTE: The tables below will be updated with tables for S26 between the Friday of week 10, and the Wednesday of finals week.   These are just place holders.**
 
-## Legacy repository: proj-courses
+
+## F26 Legacy repository: proj-courses
 
 | issue | s26-01 | s26-02 | s26-03 | s26-04 |
 |---| ---|---|---|---|

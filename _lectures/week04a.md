@@ -1,10 +1,11 @@
 ---
-title: "Week 04a - 10/21 Tue"
-lecture_date: 2025-10-21
-description: "start team01, p09 (launch team01)"
+title: "Week 04a - 04/21 Tue"
+lecture_date: 2026-04-21
+description: "Start team01, Participation Activity p09 "
 ready: true
 layout: default
 parent: lectures
+participation_activity: https://ucsb-cs156.github.io/s26/hwk/p09/
 ---
 
 # {{page.title}} - {{page.description}}
@@ -21,4 +22,4 @@ Please bring up the instructions here:
 
 Also, complete this participation activity:
 
-* <https://ucsb-cs156.github.io/s26/hwk/p09/>
+* <{{page.participation_activity}}>

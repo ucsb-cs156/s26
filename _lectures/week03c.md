@@ -1,13 +1,16 @@
 ---
-title: "Week 03c - 10/16 Thu"
-lecture_date: 2025-10-16
+title: "Week 03c - 04/16 Thu"
+lecture_date: 2026-04-16
 description: "Finish up through jpa04; do jpa05 if done"
 ready: true
 layout: default
 parent: lectures
+participation_activity: p10
 ---
 
 # {{page.title}} - {{page.description}}
+
+
 
 Participation Activity:
 * On your team's slack channel, share with your team where you are with jpa02, jpa03, jpa04, e.g.
@@ -15,10 +18,15 @@ Participation Activity:
   * Finished with jpa02; working on jpa03/jpa04
   * Finished with jpa02/jpa03; working on jpa04
   * Finished with jpa03/jpa04, but still working on jpa02
-* Then, submit a link to your update on Canvas as p09
+* Then, submit a link to your update on Canvas as {{page.participation_activity}}
 
-## Work on jpa02, jpa03, jpa04 or jpa05
+# {{page.title}} - {{page.description}}
 
-If you are finished with everything through jpa05,
-you may be excused from today's lecture.
+This class is allocated for students that need to work on the assignments
+jpa00 through jpa04, and need help from the staff.
+
+Students that are "ahead" may also work on jpa05.
+
+
+
 

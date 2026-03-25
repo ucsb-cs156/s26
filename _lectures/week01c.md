@@ -1,28 +1,24 @@
 ---
-title: "Week 01c - 10.02 Thu"
-lecture_date: 2025-10-02
-description: "Divide up LTD sections, then jpa01, jpa02"
+title: "Week 01c - 04.02 Thu"
+lecture_date: 2026-04-02
+description: "Start jpa02. Continue work on install, jpa00, jpa01"
 ready: true
 layout: default
 parent: lectures
 ---
 
+
 # {{page.title}} - {{page.description}}
 
-## Today's work
+Today, we introduce [jpa02](https://ucsb-cs156.github.io/s26/lab/jpa02.html), which is an introduction to Spring Boot, junit, jacoco, and pitest.
 
-Today, we'll work on 
+It's a bit more challenging that jpa00 and jpa01, and may take you longer to finish.
 
-* [p05](https://ucsb-cs156.github.io/s26/hwk/p05/)
+Please understand that even if **you** are done with installation, jpa00, jpa01, and jpoa02, you still **need to show up** to help your fellow team members.  
 
-Then continue with whatever parts of this you still haven't finished:
+You have a stake in ensuring that everyone on the team is up to speed and ready to help contribute to the team projects as soon as possible.
 
-* Install Checklist from lecture on Tuesday: <https://ucsb-cs156.github.io/s26/lectures/week01a/>
-* [jpa00](https://ucsb-cs156.github.io/s26/lab/jpa00.html)
-* [jpa01](https://ucsb-cs156.github.io/s26/lab/jpa01.html)
+So please do come to class, and help your fellow team members.
 
-You should work independently, but also help other folks on your team as/when they get stuck on things.
+If/when **all six** team members are done with jpa00, jpa01, jpa02 you may leave early, but only then.
 
-So if you finish early, before you just "leave", check in both in person and on slack with the other members of your team to see if any of them need help.
-
-Please leave only if/when you're done with *all of these*, **and** no one on your team needs help.

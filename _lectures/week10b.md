@@ -1,6 +1,6 @@
 ---
-title: "Week 10b - Wed 12/03"
-lecture_date: 2025-12-03
+title: "Week 10b - Wed 06/03"
+lecture_date: 2026-06-03
 description: "Release Notes, Videos, Final Retro"
 ready: true
 layout: default

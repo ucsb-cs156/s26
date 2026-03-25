@@ -1,7 +1,7 @@
 ---
-title: "Week 09a - Tue 05/26"
-lecture_date: 2026-05-26
-description: "Final PR Deadline"
+title: "Week 09b - Wed 05/27"
+lecture_date: 2026-05-27
+description: "Merging PRs, Release Notes, Videos"
 ready: true
 layout: default
 parent: lectures
@@ -9,15 +9,16 @@ parent: lectures
 
 # {{page.title}} - {{page.descripion}}
 
-What is is that is due today?
 
-* Today is the last day that you can submit *new* PRs to be reviewed by staff.
+Clarifications:
+
+* Tuesday of week 9 was the last day that you can submit *new* PRs to be reviewed by staff.
 * By today, PRs need to be *already in a mergeable state*
   * Passing all CI/CD checks
   * Meeting all of the criteria in the PR checklist
   * Already reviewed/approved by a team member
 
-After today's class ends, any PRs that are not mergeable are subject to being closed without further review by the staff. 
+Any PRs that are not in a reviewable/mergable state are subject to being closed without further review by the staff. 
 
 Throughout week 9, we will continue to review PRs that are already in the queue, with the goal of having all of the PR queues empty by the start of week 10.
 
@@ -62,6 +63,3 @@ You can read more about those below.
 # Final Exam
 
 {% include final_exam.md %}
-
-
-
