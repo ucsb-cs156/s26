@@ -5,7 +5,7 @@ description: "Introduction, Meeting your team, Team agreements"
 ready: true
 layout: default
 parent: lectures
-on_canvas: "[Participation Activity P04 on Canvas](https://ucsb.instructure.com/courses/27687/assignments/381946)"
+on_canvas: "[Participation Activity P03 on Canvas](https://ucsb.instructure.com/courses/32781/assignments/455923)"
 ---
 
 
