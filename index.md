@@ -7,7 +7,13 @@ nav_order: 0
 
 # {{site.title}}, {{site.quarter}}
 
-[Legacy Code Project Info](https://ucsb-cs156.github.io/s26/lab/project.html)
+Seating chart and teams: <https://bit.ly/cs156-s26-teams> 
+
+Or, this QR code:
+
+<img width="400" height="400" alt="bit ly cs156-s26-teams" src="https://github.com/user-attachments/assets/de908f8c-365b-4bc8-8de0-e8cc4108aa7c" />
+
+
 
 On Canvas: <{{site.aux_links["Canvas"]}}>
 
