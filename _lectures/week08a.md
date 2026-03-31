@@ -16,4 +16,4 @@ For details of the legacy project see:
 
 ## What to do during legacy projecct work sessions
 
-{% include legacy_project_works_sessions.md %}
+{% include legacy_project_work_sessions.md %}
