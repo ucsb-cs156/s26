@@ -5,7 +5,8 @@ description: "Introduction, Meeting your team, Team agreements"
 ready: true
 layout: default
 parent: lectures
-on_canvas: "[Participation Activity P03 on Canvas](https://ucsb.instructure.com/courses/32781/assignments/455923)"
+self_introduction_on_canvas: "[Participation Activity P01 on Canvas](https://ucsb.instructure.com/courses/32781/assignments/455921)"
+group_activity_on_canvas: "[Participation Activity P04 on Canvas](https://ucsb.instructure.com/courses/32781/assignments/455923)"
 ---
 
 
@@ -141,7 +142,7 @@ Note that while the instructor, or a TA or LA might drop in on your Breakout Roo
 # What to do in your breakout room
 
 1. If you haven't yet made a post to your team channel introducing yourself,
-   i.e. [this assignment on Canvas](page.link_to_self_intro_activity), please do that now, following the instructions at [this link](page.link_to_self_intro_activity).
+   i.e. {{self_introduction_on_canvas}}, please do that now, following the instructions at [this link](page.link_to_self_intro_activity).
 
    The deadline for full credit for this activity is at the end of today's
    lecture, and it will only take a moment.
@@ -149,7 +150,7 @@ Note that while the instructor, or a TA or LA might drop in on your Breakout Roo
 2. Once everyone on your team has done that, you are going to work as a team on
    the activity at this link on canvas:
 
-   * <{{page.link_to_team_first_day_activity}}>
+   * <{{page.group_activity_on_canvas}}>
 
 
 # If time remains, here's what to do with it
@@ -182,7 +183,7 @@ Record as much of your conversation as you are able in the Slack channel
 
 # For Wednesday (tomorrow)
 
-Complete P00, P01, P02 (all can be found on Canvas, and are straightforward; should take less than 30 minutes combined. ).
+Complete H00, and P01 on Canvas (should take less than 30 minutes combined. ).
 
 You may also like to start looking at tomorrow's discussion section activity and get a headstart on it; it involved downloading and installing software.   
 
