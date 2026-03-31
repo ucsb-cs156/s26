@@ -142,7 +142,7 @@ Note that while the instructor, or a TA or LA might drop in on your Breakout Roo
 # What to do in your breakout room
 
 1. If you haven't yet made a post to your team channel introducing yourself,
-   i.e. {{self_introduction_on_canvas}}, please do that now, following the instructions at [this link](page.link_to_self_intro_activity).
+   i.e. {{self_introduction_on_canvas}}, please do that now, following the instructions at {{page.self_introduction_on_canvas}}.
 
    The deadline for full credit for this activity is at the end of today's
    lecture, and it will only take a moment.
