@@ -11,10 +11,7 @@ parent: lectures
 
 Today's activity is {{page.on_canvas}}.
 
-* You are encouraged to come to class to do it, because it's easier to get help and to help others.
-* Having said that, remote participation via zoom is acceptable.  Note that you'll need a good internet connection, since we'll be downloading stuff today.
-
-Also note that you can get started on some of this *before* class and you are encouaged to do so.  If you get it all done before class, then all you need to do is come to class (or the lecture zoom room) to check in briefly, and possibly help some of your teammates.
+Also note that you can get started on some of this *before* class and you are encouaged to do so.  If you get it all done before class, then all you need to do is come to class to check in briefly, and possibly help some of your teammates.
 
 ## Outline for Today
 
