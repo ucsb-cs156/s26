@@ -360,7 +360,7 @@ Note that it tells you exactly what was different between the expected and actua
 Once you've understood this output,
 let's move on and see what happens when you submit code with a syntax error.
 
-Go into the file `src/main/java/Hello.java`, and remove the semicolon at the end of the statement:
+Go into the file `src/main/java/jpa00/Hello.java`, and remove the semicolon at the end of the statement:
 
 ```
  System.out.println("This is the wrong output!");
@@ -374,51 +374,7 @@ Go into the file `src/main/java/Hello.java`, and remove the semicolon at the end
 
 This, of course, has a syntax error.
 
-Try using `mvn compile` and see what happens when you submit this.
-
-Then, commit this change to Github.
-
-(Normally, we would NOT push code that has a syntax error, but for purposes of this experiment, we will.)
-
-Add/Commit/Push with these commands:
-
-```
-git add src/main/java/Hello.java
-git commit -m "commit code with syntax error to test autograder"
-git push origin main
-```
-
-Now, submit to Gradescope again.  You should see output like this:
-
-* At the right hand side, you'll see the following:
-
-
-  <img width="162" alt="mvn-compile-failed-50" src="https://user-images.githubusercontent.com/1119017/229932738-b85ff1a3-1dac-43d6-899f-92f1cedb7dd3.png">
-
-  This is how you'll know that the Maven compile failed on Gradescope.
-
-  But where can you see what went wrong?  Read on:
-
-
-* Look in the main window, for
-  output with `mvn compile failed` at the top.  It will probably be very
-  long (the whole output is not shown):
-
-  <img width="414" alt="mvn-compile-failed-top-50" src="https://user-images.githubusercontent.com/1119017/229932691-f8411e99-3131-4062-b504-387e0cd55f5f.png">
-
-  This output is really long because it shows every single file that was
-  downloaded by Maven in order to do it's work (which is quite a few).  However,
-  the really useful output is at the bottom, so you have to scroll down a while:
-
-* Look at the bottom of this section, and eventually you should see:
-
-  <img width="412" alt="mvn-compile-failed-bottom-50" src="https://user-images.githubusercontent.com/1119017/229932642-703fbdd2-022e-436c-81ad-5a74c3d82b71.png">
-
-
-  Here, finally, you can see what's wrong with the compile (the missing semicolon).
-
-Now that you understand what a failed compile looks like, let's finally fix the code
-and finish the lab.
+Try using `mvn compile` and see what happens when you compile this.
 
 ## Step 11: Submit correct Java code to Gradescope
 
