@@ -14,7 +14,7 @@ starter_repo: https://github.com/ucsb-cs156-s26/STARTER-jpa01
 software: https://ucsb-cs156.github.io/s26/info/software.html
 install_check: https://ucsb-cs156.github.io/s26/info/install_check.html
 teams_link: "<https://bit.ly/cs156-s26-teams>"
-gradescope_link: https://www.gradescope.com/courses/1078941/assignments/6880964
+gradescope_link: https://www.gradescope.com/courses/1223827/assignments/7926213
 ---
 
 {% include drop_down_style.html %}
