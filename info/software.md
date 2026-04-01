@@ -3,9 +3,9 @@ title: Software
 description: "What you need to install"
 layout: default
 parent: info
-maven_version: 3.9.11
-node_lts: v22.22.0
-npm_lts: v10.9.3
+maven_version: 3.9.14
+node_lts: v22.22.2
+npm_lts: v10.9.7
 zoom_version: 6.3.11
 java_version: 21
 ---
@@ -148,7 +148,7 @@ The following programs will be installed in the above guide:
 * Java {{page.java_version}}
 * Maven {{page.maven_version}}
 * nvm (latest stable version)
-* Current LTS version of Node installed via `nvm install --lts; nvm use --lts` (currently node {{page.node_lts}}, and npm {{page.npm_lts}})
+* Current LTS version of Node installed via `nvm install {{page.node_lts}}; nvm use {{page.node_lts}}` (currently node {{page.node_lts}}, and npm {{page.npm_lts}})
 
 If you're using a Linux distribution that is not Ubuntu (or a similar Debian-based distribution with access to `apt`), the commands listed in the setup guide linked above may not work. The staff cannot provide support on finding equivalent commands for your desired distribution, but community resources such as Stack Overflow can help here.
 
