@@ -422,7 +422,7 @@ and finish the lab.
 
 ## Step 11: Submit correct Java code to Gradescope
 
-Now, fix the code so that it produces the correct output.  Change the file `src/main/java/Hello.java` so that the `System.out.println` method call reads:
+Now, fix the code so that it produces the correct output.  Change the file `src/main/java/jpa00/Hello.java` so that the `System.out.println` method call reads:
 
 ```
         System.out.println("Hello, World!");
