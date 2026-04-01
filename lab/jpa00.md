@@ -333,7 +333,7 @@ We want to see what the Gradescope output looks like in that case.
 To submit to Gradescope, navigate to:
 <https://gradescope.com>.
 
-You should have an account invitation in your email.  If you don't, ask an instructor, TA or mentor for assistance.
+Log in with the School Credentials for UCSB.  Don't use username/password credentials.  Or, access Gradescope through Canvas.
 
 To submit your work, you should be able to click on the GitHub link in Gradescope, and locate your repo.  The first time you do this, it may take a while; be patient before giving up.   If it still doesn't work after a while, you can either (a) ask the staff for assistance, or submit a zip file as an alternative.
 
