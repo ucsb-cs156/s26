@@ -1,7 +1,7 @@
 ---
 title: "Week 01b - 04/01 Wed"
 lecture_date: 2026-04-01
-description: "Install software, start jpa00, jpa01"
+description: "Install software, start jpa00"
 ready: true
 layout: default
 parent: lectures
@@ -46,6 +46,6 @@ Also note that you can get started on some of this *before* class and you are en
    * Make a post on Canvas that says: P04: installation check incomplete" and then lists the things you still need to do.
    * Submit that post as your answer to P04 on Canvas.  As long as you make a post that reports your current status, and as long as you made a valid attempt to do as much as you could today during classtime, **you get full credit**.
    * You will *still* need to finish these installation steps eventually, preferably outside of class, and make a post that says: "Install check complete!" at some point, preferably before your discussion section on Wednesday, but at the latest by next Tuesday.  However, the minimum requirement for full credit for the participation grade today is just to get as far as you can with it, and then document what still needs to be done.  If you get it all done, that's even better, but not required for full credit.
-6. Then work on either jpa00, or start jpa01 (find them under "labs" on the course website.)
+6. Then work on jpa00 (find it under "labs" on the course website.)
 7. If you've done *all* of the items above, then check in with your teammates on the Slack channel and/or in person to see if any of them need any help.  If so, please help them as best you can. If not, you are *free to go early*, but only if you've finished jpa00 and jpa01 and no one else on your team needs your help.
 
