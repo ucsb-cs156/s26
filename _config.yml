@@ -93,7 +93,7 @@ teams:
     team02_project: "tbd"
     legacy_project: "tbd"
     legacy_kanban: "tbd"
-    slack: https://ucsb-cs156-s26.slack.com/archives/tbd
+    slack: https://ucsb-cs156-s26.slack.com/archives/C0AQ16HHTLN
   - team: s26-02
     dokku: "02"
     team01_project: "tbd"
