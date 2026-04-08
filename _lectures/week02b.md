@@ -7,10 +7,13 @@ layout: default
 parent: lectures
 ---
 
-
 # {{page.title}} - {{page.description}}
 
 Today, we start [jpa03](https://ucsb-cs156.github.io/s26/lab/jpa03.html), which has as it's topic "Configuring OAuth, Database for Spring Boot Backend".
+
+If you are finished with [jpa03](https://ucsb-cs156.github.io/s26/lab/jpa03.html), try [jpa04](https://ucsb-cs156.github.io/s26/lab/jpa04.html), which is about signed commits.
+
+
 
 
 
