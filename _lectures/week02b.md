@@ -1,7 +1,7 @@
 ---
 title: "Week 02b - 04/08 Wed"
 lecture_date: 2026-04-08
-description: "Start jpa03 (Configuring OAuth, Database for Spring Boot Backend)"
+description: "Start jpa03 (Configuring OAuth, Database for Spring Boot Backend), jpa04 (signed commits)"
 ready: true
 layout: default
 parent: lectures
