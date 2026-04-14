@@ -6,6 +6,7 @@ ready: true
 layout: default
 parent: lectures
 participation_activity: "[p07](https://ucsb.instructure.com/courses/32781/assignments/455940)"
+jpa05: "[jpa05](https://ucsb.instructure.com/courses/32781/assignments/455938)"
 ---
 
 
@@ -24,7 +25,7 @@ Participation Activity:
 This class is allocated for students that need to work on the assignments
 jpa00 through jpa04, and need help from the staff.
 
-Students that are "ahead" may also work on jpa05.
+Students that are "ahead" may also work on {{page.jpa05}}.
 
 
 
