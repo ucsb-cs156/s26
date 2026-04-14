@@ -1,11 +1,11 @@
 ---
 title: "Week 03b - 04/15 Wed"
 lecture_date: 2026-04-15
-description: "Help with jpa assignments"
+description: "Start jpa05 if ready, otherwise work on jpa02,jpa03,jpa04"
 ready: true
 layout: default
 parent: lectures
-participation_activity: p09
+participation_activity: p07
 ---
 
 
