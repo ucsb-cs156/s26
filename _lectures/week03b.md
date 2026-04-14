@@ -5,7 +5,7 @@ description: "Start jpa05 if ready, otherwise work on jpa02,jpa03,jpa04"
 ready: true
 layout: default
 parent: lectures
-participation_activity: p07
+participation_activity: "[p07](https://ucsb.instructure.com/courses/32781/assignments/455940)"
 ---
 
 
@@ -13,7 +13,7 @@ participation_activity: p07
 
 Participation Activity:
 * On your team's slack channel, share with your team where you are with jpa02, jpa03, jpa04, e.g.
-  * Finished with up through jpa04
+  * Finished with up through jpa04; ready to start jpa05
   * Finished with jpa02; working on jpa03/jpa04
   * Finished with jpa02/jpa03; working on jpa04
   * Finished with jpa03/jpa04, but still working on jpa02
