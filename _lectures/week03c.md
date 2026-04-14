@@ -6,6 +6,7 @@ ready: true
 layout: default
 parent: lectures
 participation_activity: p10
+jpa05: "[jpa05](https://ucsb.instructure.com/courses/32781/assignments/455938)"
 ---
 
 # {{page.title}} - {{page.description}}
