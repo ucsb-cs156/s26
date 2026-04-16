@@ -1,25 +1,37 @@
 ---
 title: "Week 03c - 04/16 Thu"
 lecture_date: 2026-04-16
-description: "Finish up through jpa04; do jpa05 if done"
+description: "Team Agreements, then jpa03/jpa04/jpa05"
 ready: true
 layout: default
 parent: lectures
-participation_activity: p10
+participation_activity: "[p08](https://ucsb.instructure.com/courses/32781/assignments/455939)"
 jpa05: "[jpa05](https://ucsb.instructure.com/courses/32781/assignments/455938)"
 ---
 
 # {{page.title}} - {{page.description}}
 
+## Team Agreements and Learning Goals
+
+We'll spend about the first 30-40 minutes on the following team activity:
+
+* {{page.participation_activity}}
+
+Be sure someone submits on Canvas.
+
+## Remainder of time
+
+After completing the Team Agreements and Learning Goals activity, the rest of class time is allocated for
+help with jpa03/jpa04/jpa05.  
+
+If you are finished with all of those, please offer to help your teammates; if they do not need your help, you are free to leave early.
+
+## We start team01 on Tuesday
+
+Everyone please plan to be in class on Tuesday of next week to start team01.
 
 
-Participation Activity:
-* On your team's slack channel, share with your team where you are with jpa02, jpa03, jpa04, e.g.
-  * Finished with up through jpa04
-  * Finished with jpa02; working on jpa03/jpa04
-  * Finished with jpa02/jpa03; working on jpa04
-  * Finished with jpa03/jpa04, but still working on jpa02
-* Then, submit a link to your update on Canvas as {{page.participation_activity}}
+
 
 # {{page.title}} - {{page.description}}
 
