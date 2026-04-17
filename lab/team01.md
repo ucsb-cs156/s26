@@ -825,7 +825,7 @@ Here's the code for one of those, namely the database migration for file `UCSBDa
       {
         "changeSet": {
           "id": "UCSBDates-1",
-          "author": "MattP",
+          "author": "YourGitHubID",
           "preConditions": [
             {
               "onFail": "MARK_RAN"
