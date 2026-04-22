@@ -1045,6 +1045,7 @@ Click the triangle for a list of tasks the instructor should do prior releasing 
   * team access admin
   * signed commits
 * Set up starter code in the course organization, and update links
+* Change the START_DATE and END_DATE in the STARTER-team01 repo in workflow 82!
 * Create a Canvas assignment for team01; update the due dates and publish it
 * Create projects for all of the groups. The best way is to create a Template that
   has precisely the setup you want (i.e. the columns, etc.) and then manually create the
