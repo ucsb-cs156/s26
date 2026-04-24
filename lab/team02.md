@@ -15,7 +15,7 @@ ready: true
 starter: https://github.com/ucsb-cs156-s26/STARTER-team02
 deployment: https://team02.dokku-00.cs.ucsb.edu/
 storybook: https://ucsb-cs156-s26.github.io/STARTER-team02/chromatic
-canvas: https://ucsb.instructure.com/courses/27687/assignments/381964
+canvas: https://ucsb.instructure.com/courses/32781/assignments/455944
 help_team02: "[<tt>#help-team02</tt>](https://ucsb-cs156-s26.slack.com/archives/C09MDAMH27K)"
 nvm_use: "<tt>nvm use 22.18.0</tt>"
 ---
