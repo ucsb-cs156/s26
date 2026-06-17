@@ -92,6 +92,8 @@ Your grade will be made up of activities from the following categories:
   * If only one exam is offered, it will be worth 25% of your grade.
   * If is not possible to hold any exams, these points will be distributed instead among the other course components.
 
+### Project Grade
+
 * Project Grade:  (25%) - Your project grade will be based on your contributions during the Project phase of the course.
 
   The project grade is divided into two parts:
